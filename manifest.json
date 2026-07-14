@@ -1,10 +1,10 @@
 {
-  "name": "Firebase PWA App",
-  "short_name": "FirebasePWA",
-  "start_url": "index.html",
+  "name": "Livora",
+  "short_name": "Livora",
+  "start_url": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#317EFB",
+  "background_color": "#111827",
+  "theme_color": "#2563eb",
   "icons": [
     {
       "src": "assets/image1.png",
